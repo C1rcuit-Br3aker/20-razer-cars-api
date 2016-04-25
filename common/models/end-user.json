@@ -1,4 +1,3 @@
-
 {
   "name": "end-user",
   "base": "User",
@@ -13,8 +12,7 @@
     }
   },
   "validations": [],
-  "relations": {
-  },
+  "relations": {},
   "acls": [
     {
       "accessType": "EXECUTE",
